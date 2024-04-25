@@ -92,7 +92,7 @@ const NavBar = () => {
                 to="/"
                 onClick={() => setExpand(false)}
               >
-                <span className="nav-link-label">Homee</span>
+                <span className="nav-link-label">Home</span>
               </Link>
             </Nav.Item>
 
